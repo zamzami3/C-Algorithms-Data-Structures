@@ -132,7 +132,6 @@ void pesan_alokasi();
 void insert_akhir();
 void tampil();
 void del_awal();
-void del_akhir();
 
 int main()
 {
